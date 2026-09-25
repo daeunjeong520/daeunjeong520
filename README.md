@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🏆 Certifications
+##### 🏆 Certifications
 <a href="https://www.credly.com/earner/earned/badge/1fa581f3-dee5-4fd0-915c-3319b3a960b7"><img src="https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="100"/></a><a href="https://www.credly.com/earner/earned/badge/ad536460-4eb8-4fe9-aaaf-ee81745d28f4"><img src="https://images.credly.com/size/340x340/images/4a4de480-0a93-47f3-ac6e-a10523c21938/blob" width="100"/></a>
 
 

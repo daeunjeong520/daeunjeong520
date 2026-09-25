@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🏆 Certifications
+[![TryHackMe SEC0](https://www.credly.com/badges/ad536460-4eb8-4fe9-aaaf-ee81745d28f4/public_url)](https://www.credly.com/earner/earned/badge/ad536460-4eb8-4fe9-aaaf-ee81745d28f4)

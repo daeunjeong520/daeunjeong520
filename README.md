@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## 🏆 Certifications
-[![TryHackMe SEC0](https://www.credly.com/badges/ad536460-4eb8-4fe9-aaaf-ee81745d28f4/public_url)](https://www.credly.com/earner/earned/badge/ad536460-4eb8-4fe9-aaaf-ee81745d28f4)
+[![TryHackMe SEC0](https://images.credly.com/size/340x340/images/4a4de480-0a93-47f3-ac6e-a10523c21938/blob)](https://www.credly.com/earner/earned/badge/ad536460-4eb8-4fe9-aaaf-ee81745d28f4)
